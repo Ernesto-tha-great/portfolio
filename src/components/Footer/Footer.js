@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>ladidida</Slogan>
+          <Slogan>Click on the phone number or the email to either call or shoot me a mail. Decided to keep this portfolio as simple as possible which reflect my style. So if you have an interesting project or you are looking for your next dev, lets talk 😇 .</Slogan>
         </CompanyContainer>
       <SocialContainer>
         <SocialIcons href="https://github.com/Ernesto-tha-great">

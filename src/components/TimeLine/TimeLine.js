@@ -46,7 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        This is me
+        I am a self-taught software developer who transitioned from finance to tech a little under three years ago. This is mostly because I wanted to pursue what was initially a hobby and turn it into a career and I succeded in doing that.
+        I want to build products and platforms that impact the everyday life of people not just around me but in the world. I am also an avid learner as you might have guessed from my stack. I find new concepts and frameworks intriguing and above all, I love people. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
     <>

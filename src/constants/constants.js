@@ -1,20 +1,20 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'E-commerce store',
+    description: "A fully functional e-commerce store built with React and commerceJs. Also included is payment gateway integration with Stripe. ",
+      image: '/images/6.png',
+      tags: ['React', 'CommerceJS', 'MaterialUi', 'Stripe'],
+    source: 'https://github.com/Ernesto-tha-great/E-commerce_web_store',
+    visit: 'https://frosty-cray-1ad8f0.netlify.app/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Piron-Homes',
+    description:"This is a booking webApp for apartments modelled after the design of AirBNB. This was built with nextJS and in the future, I will take this build further.",
+    image: '/images/7.png',
+    tags: ['NextJs', 'Tailwind', 'Mapbox'],
+    source: 'https://github.com/Ernesto-tha-great/Airbnb-clone',
+    visit: 'https://airbnb-clone-phi-henna.vercel.app/',
     id: 1,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started my journey in tech as a hobby', },
+  { year: 2020, text: 'Worked as a freelance developer and part time contractor', },
+  { year: 2021, text: 'Became a full stack developer', },
+  { year: 'May', text: 'Transitioned into mobile development with a remote company', },
+  { year: 'August', text: 'Became a technical lead at the company.', },
 ];
