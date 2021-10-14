@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://portfolio-coral-omega.vercel.app/)
+![Live site](https://portfolio-coral-omega.vercel.app/)
