@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Piron-Food',
     description: "This a food ordering application modelled after uber eats. It is built with react native and fire base for the backend..",
-      image: '/images/9.jpg',
+      image: '/images/9.png',
       tags: ['React-Native', 'Redux', 'Tailwind', 'Firebase'],
     source: 'https://github.com/Ernesto-tha-great/piron-food',
   
