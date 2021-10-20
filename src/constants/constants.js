@@ -20,13 +20,21 @@ export const projects = [
   {
     title: 'Piron-Food',
     description: "This a food ordering application modelled after uber eats. It is built with react native and fire base for the backend..",
-      image: '/images/9.png',
+      image: '/images/9.jpg',
       tags: ['React-Native', 'Redux', 'Tailwind', 'Firebase'],
     source: 'https://github.com/Ernesto-tha-great/piron-food',
-    
+  
     id: 2,
   },
- 
+  {
+    title: 'Amazon-Project',
+    description: "This is an ongoing build where i a m replicating the Amazon page. Its a full-stack build",
+    image: '/images/4.jpg',
+    tags: ['React', 'NextJS', 'FakeApi', 'Redux'],
+    source: 'https://github.com/Ernesto-tha-great/Amazon-project',
+    visit: 'https://amazon-project.vercel.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
