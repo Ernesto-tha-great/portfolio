@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Amazon-Project',
     description: "This is an ongoing build where i a m replicating the Amazon page. Its a full-stack build",
-    image: '/images/4.jpg',
+    image: '/images/12.png',
     tags: ['React', 'NextJS', 'FakeApi', 'Redux'],
     source: 'https://github.com/Ernesto-tha-great/Amazon-project',
     visit: 'https://amazon-project.vercel.app/',
